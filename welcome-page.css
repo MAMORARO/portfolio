@@ -1,0 +1,30 @@
+
+body{
+    background-image:url(https://images.unsplash.com/photo-1704580615544-ffb922e61f27?q=80&w=1518&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+      background-size: contain;      
+    background-repeat: no-repeat;  
+    background-position: center;  
+    background-attachment: fixed;  
+}
+
+main{
+    
+    position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Adjusts for element's own size */
+            font-size: 24px;
+            text-align: center;
+}
+
+img{
+
+    height:300px;
+    width: 350px;
+    border-radius: 360px;
+}
+
+.divone{
+
+    
+}
